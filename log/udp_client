@@ -1,0 +1,6 @@
+DEBUG:140229577311968:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:140229577311968:init ok ,create a udp socket
+DEBUG:140683931723488:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:140683931723488:init ok ,create a udp socket
+DEBUG:140548563736288:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:140548563736288:init ok ,create a udp socket

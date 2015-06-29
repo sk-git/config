@@ -1,0 +1,40 @@
+DEBUG:140365695821536:wuzhibin
+DEBUG:140365695821536:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:140365695821536:init ok ,create a udp socket
+DEBUG:140365695821536:socket bind port:8002 ok
+DEBUG:140365695821536:wuzhibin
+DEBUG:139893090064096:wuzhibin
+DEBUG:139893090064096:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:139893090064096:init ok ,create a udp socket
+DEBUG:139893090064096:socket bind port:8002 ok
+DEBUG:139893090064096:wuzhibin
+DEBUG:139702112257760:wuzhibin
+DEBUG:139702112257760:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:139702112257760:init ok ,create a udp socket
+DEBUG:139702112257760:socket bind port:8002 ok
+DEBUG:139702112257760:wuzhibin
+DEBUG:139662360884960:wuzhibin
+DEBUG:139662360884960:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:139662360884960:init ok ,create a udp socket
+DEBUG:139662360884960:socket bind port:8002 ok
+DEBUG:139662360884960:wuzhibin
+DEBUG:140393412437728:wuzhibin
+DEBUG:140393412437728:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:140393412437728:init ok ,create a udp socket
+DEBUG:140393412437728:socket bind port:8002 ok
+DEBUG:140393412437728:wuzhibin
+DEBUG:140668995090144:wuzhibin
+DEBUG:140668995090144:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:140668995090144:init ok ,create a udp socket
+DEBUG:140668995090144:socket bind port:8002 ok
+DEBUG:140668995090144:wuzhibin
+DEBUG:140459309266656:wuzhibin
+DEBUG:140459309266656:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:140459309266656:init ok ,create a udp socket
+DEBUG:140459309266656:socket bind port:8002 ok
+DEBUG:140459309266656:wuzhibin
+DEBUG:139875088963296:wuzhibin
+DEBUG:139875088963296:createSocket parameter family:2,type:2,protocol:0 ok
+DEBUG:139875088963296:init ok ,create a udp socket
+DEBUG:139875088963296:socket bind port:8002 ok
+DEBUG:139875088963296:wuzhibin
